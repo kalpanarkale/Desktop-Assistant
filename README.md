@@ -20,3 +20,4 @@ PC Alexitant is a versatile desktop assistant designed to automate various tasks
   <img src="https://github.com/user-attachments/assets/0619709b-8844-4229-9b6d-c82f9e634f34" width="45%" style="border: 2px solid #ddd; border-radius: 5px; padding: 5px;" />
 </p>
 [![Watch the video]](https://drive.google.com/file/d/1lOccBaTxKbH0S0CUevM257e9xK1Xgfjy/view?usp=sharing)
+[![Watch the video](![video-preview](https://github.com/user-attachments/assets/f10fe0c5-f7e1-4eeb-9af8-441ce570a241))](https://youtu.be/vt5fpE0bzSY)
