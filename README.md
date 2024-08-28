@@ -16,4 +16,5 @@ PC Alexitant is a versatile desktop assistant designed to automate various tasks
 3. Speak a command after the assistant prompts you to start listening.
 
 ### Demo video
-[![Watch the video ![video-preview](https://github.com/user-attachments/assets/8bd7891a-a4f4-4de3-adb5-2b3fb37c327d)](https://drive.google.com/file/d/1lOccBaTxKbH0S0CUevM257e9xK1Xgfjy/view?usp=sharing)
+!(https://github.com/user-attachments/assets/1d5a2e59-a7c8-4e7a-a064-75e1cc313373)
+![Watch the video](https://drive.google.com/file/d/1lOccBaTxKbH0S0CUevM257e9xK1Xgfjy/view?usp=sharing)
