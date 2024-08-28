@@ -1,5 +1,5 @@
 # PC Alexitant - Your Personal Desktop Assistant
----
+
 PC Alexitant is a versatile desktop assistant designed to automate various tasks on your PC. With the ability to understand both verbal and written commands, it can perform a range of tasks, enhancing your productivity by managing applications, providing stock updates, playing media, and more—all through simple voice commands.
 
 ### Key Features
@@ -14,6 +14,7 @@ PC Alexitant is a versatile desktop assistant designed to automate various tasks
 1. Install the required libraries using pip install -r requirements.txt.
 2. Run the alexitant.py script.
 3. Speak a command after the assistant prompts you to start listening.
+---
 
 ### Demo video
 
