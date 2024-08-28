@@ -11,7 +11,7 @@ PC Alexitant is a versatile desktop assistant designed to automate various tasks
 
 ### To use the desktop assistant:
 
-1. Install the required libraries using pip install -r requirements.txt.
+1. Install the required libraries using 'pip install -r requirements.txt'.
 2. Run the alexitant.py script.
 3. Speak a command after the assistant prompts you to start listening.
 ---
